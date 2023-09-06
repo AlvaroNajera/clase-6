@@ -1,0 +1,14 @@
+h1,h2,h3,h4,p{
+    color: red;
+}
+
+ 
+    body{
+        background-color: violet;
+    }
+
+    .banner{
+      background-color: aqua;
+      padding: 20px;
+      text-align: center;
+    }
